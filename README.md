@@ -12,7 +12,7 @@ Personal project in which I analyzed an E-Commerce business' data. The project's
 - pyarrow
 - warnings
 
-## <ins>Techniques/Concepts used</ins>:
+## <ins>Techniques/Concepts covered</ins>:
 
 - Importing data (pd.read_feather)
 - NULL/Duplicates handling
