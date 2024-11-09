@@ -21,6 +21,7 @@ Personal project in which I analyzed an E-Commerce business' data. The project's
 - Defining functions
 - Dataframe filtering
 - E-Commerce analysis
+- Sales analysis
 - Frequency tables
 - Pivoting dataframes
 - Basket analysis/Reccommendation systems
