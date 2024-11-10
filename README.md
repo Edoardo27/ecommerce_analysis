@@ -1,5 +1,5 @@
 # <ins>E-Commerce Analysis</ins>
-This is a personal project in which I analyze the data of an E-Commerce business. The project's Jupyter Notebook is uploaded above.
+Personal project in which I analyze the data of an E-Commerce business. The project's Jupyter Notebook is uploaded above.
 
 **<ins>Language</ins>**: *Python*
 
